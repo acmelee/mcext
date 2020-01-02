@@ -10,8 +10,8 @@
     "files": [
         "extension.ts",
         "enums.d.ts",
-        "_locales/zh-CN/minecraft-MC102EXT-jsdoc-strings.json",
-        "_locales/zh-CN/minecraft-MC102EXT-strings.json"
+        "_locales/zh-CN/minecraft-mcext-jsdoc-strings.json",
+        "_locales/zh-CN/minecraft-mcext-strings.json"
     ],
     "public": true,
     "preferredEditor": "tsprj"
