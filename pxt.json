@@ -13,7 +13,7 @@
         "_locales/zh-CN/minecraft-MC102EXT-jsdoc-strings.json",
         "_locales/zh-CN/minecraft-MC102EXT-strings.json"
     ],
-    "public": true
-
+    "public": true,
+    "preferredEditor": "tsprj"
 
 }
