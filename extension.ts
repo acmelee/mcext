@@ -1,4 +1,4 @@
-namespace MC102EXT {
+namespace mcext {
 
 
     export function sayhi() {
@@ -18,3 +18,4 @@ namespace MC102EXT {
 
 
 
+s
