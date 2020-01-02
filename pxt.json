@@ -1,0 +1,19 @@
+{
+
+    "name": "mcext",
+    "version": "0.0.1",
+    "description": "Support for MakeCode 102",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "extension.ts",
+        "enums.d.ts",
+        "_locales/zh-CN/minecraft-MC102EXT-jsdoc-strings.json",
+        "_locales/zh-CN/minecraft-MC102EXT-strings.json"
+    ],
+    "public": true
+
+
+}
