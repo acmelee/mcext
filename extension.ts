@@ -16,7 +16,7 @@ namespace mcext {
     }
 
     /**
-     * Opens a gate
+     * say hi
      */
     //% block="say hi"
     //% weight=90
