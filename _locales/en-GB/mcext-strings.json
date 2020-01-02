@@ -1,5 +1,7 @@
 {
+    
     "mcext.sayhi|block": "你好",
+    "mcext|block": "mcext",
     "{id:category}mcext": "mcext"
 
 }
