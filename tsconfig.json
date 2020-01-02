@@ -1,8 +1,8 @@
 {
     "compilerOptions": {
-        "target": "es2020",
+        "target": "es3",
         "noImplicitAny": true,
-        "outDir": "builted",
+        "outDir": "built",
         "rootDir": "."
     }
 }
