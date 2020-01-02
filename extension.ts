@@ -1,3 +1,4 @@
+//% weight=94 color=#EC7505 icon="\uf1b3"
 namespace mcext {
 
 // hidden from user, used by other functions
