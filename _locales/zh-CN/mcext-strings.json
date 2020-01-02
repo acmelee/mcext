@@ -1,4 +1,5 @@
 {
-    "MC102EXT.sayhi|block": "你好"
+    "mcext.sayhi|block": "你好",
+    "{id:category}mcext": "mcext"
 
 }
