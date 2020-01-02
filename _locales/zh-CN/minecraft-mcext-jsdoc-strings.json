@@ -1,4 +1,26 @@
 {
-    "mcext": "Writing data for hacking stem experiments",
-    "mcext.openDoor": "打开一个门"
-}
+    "MC102EXT": "为 Hacking STEM 实验写数据",
+    "MC102EXT.agentAnalyze": "在一个指定方向检测火灾危险",
+    "MC102EXT.agentAnalyze|param|dir": "检测火灾危险的方向",
+    "MC102EXT.agentDestroyL4": "指令代理机器人去摧毁指定方向上的一个方块",
+    "MC102EXT.agentDestroyL4|param|dir": "摧毁一个方块的方向",
+    "MC102EXT.agentDestroyL5": "指令代理机器人去摧毁指定方向上的一个方块",
+    "MC102EXT.agentDestroyL5|param|dir": "摧毁一个方块的方向",
+    "MC102EXT.agentDestroyL6": "指令代理机器人去摧毁指定方向上的一个方块",
+    "MC102EXT.agentDestroyL6|param|dir": "摧毁一个方块的方向",
+    "MC102EXT.agentDetectDryBrush": "检测代理机器人的指定方向上是否有干灌木",
+    "MC102EXT.agentDetectDryBrush|param|dir": "检测干燥灌木的方向",
+    "MC102EXT.agentDetectDryFern": "检测代理机器人的指定方向上是否有干燥蕨",
+    "MC102EXT.agentDetectDryFern|param|dir": "检测干燥蕨的方向",
+    "MC102EXT.agentDetectDryGrass": "检测代理机器人的指定方向上是否有干燥草",
+    "MC102EXT.agentDetectDryGrass|param|dir": "检测干燥草的方向",
+    "MC102EXT.agentLookForHazards": "代理机器人监视显示屏里的火灾危险",
+    "MC102EXT.agentSeeHazard": "在显示屏上看到火灾危险",
+    "MC102EXT.alertTeam": "向团队警告火灾高风险地区",
+    "MC102EXT.hazardsRemainL4": "检查火灾危险是否存在",
+    "MC102EXT.hazardsRemainL5": "检查火灾危险是否存在",
+    "MC102EXT.hazardsRemainL6": "检查火灾危险是否存在",
+    "MC102EXT.openDoor": "打开一个门",
+    "MC102EXT.sayhi": "你好"
+  }
+  
