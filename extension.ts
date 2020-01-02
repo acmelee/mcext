@@ -15,13 +15,13 @@ namespace mcext {
         }
     }
 
+    
     /**
-     * say hi
+     * Opens a gate
      */
-    //% block="say hi"
+    //% block="open gate"
     //% weight=90
-    export function sayhi() {
-
+    export function openDoor() {
         completeTask()
     }
 
