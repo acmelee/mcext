@@ -1,6 +1,5 @@
 {
-
-    "name": "mcext",
+    "name": "MC102EXT",
     "version": "0.0.1",
     "description": "Support for MakeCode 102",
     "license": "MIT",
@@ -8,14 +7,18 @@
         "core": "*"
     },
     "files": [
+        "README.md",
         "extension.ts",
         "enums.d.ts",
-        "_locales/zh-CN/mcext-jsdoc-strings.json",
-        "_locales/zh-CN/mcext-strings.json",
-        "_locales/en-GB/mcext-jsdoc-strings.json",
-        "_locales/en-GB/mcext-strings.json"
+        "_locales/zh-CN/minecraft-MC102EXT-jsdoc-strings.json",
+        "_locales/zh-CN/minecraft-MC102EXT-strings.json",
+        "_locales/en-GB/minecraft-MC102EXT-jsdoc-strings.json",
+        "_locales/en-GB/minecraft-MC102EXT-strings.json"
+  
+    ],
+    "testFiles": [
+        "test.ts"
     ],
     "public": true,
     "preferredEditor": "tsprj"
-
 }
