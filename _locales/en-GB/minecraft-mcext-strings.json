@@ -1,7 +1,20 @@
 {
-    
-    "mcext.openDoor|block": "open door",
-    "mcext|block": "mcext",
-    "{id:category}mcext": "mcext"
-
-}
+    "MC102EXT.agentAnalyze|block": "agent analyse %dir",
+    "MC102EXT.agentDestroyL4|block": "agent destroy %dir",
+    "MC102EXT.agentDestroyL5|block": "agent destroy %dir",
+    "MC102EXT.agentDestroyL6|block": "agent destroy %dir",
+    "MC102EXT.agentDetectDryBrush|block": "agent detect dry brush %dir",
+    "MC102EXT.agentDetectDryFern|block": "agent detect dry fern %dir",
+    "MC102EXT.agentDetectDryGrass|block": "agent detect dry grass %dir",
+    "MC102EXT.agentLookForHazards|block": "agent look for hazards",
+    "MC102EXT.agentSeeHazard|block": "hazard found",
+    "MC102EXT.alertTeam|block": "alert team",
+    "MC102EXT.hazardsRemainL4|block": "hazards remain",
+    "MC102EXT.hazardsRemainL5|block": "hazards remain",
+    "MC102EXT.hazardsRemainL6|block": "hazards remain",
+    "MC102EXT.openDoor|block": "open door",
+    "MC102EXT.sayhi|block": "say hi",
+    "MC102EXT|block": "MC102EXT",
+    "{id:category}MC102EXT": "MC102EXT"
+  }
+  
